@@ -1,6 +1,4 @@
-# HomePage-with-NetBeans
-
-# Java MySQL Login App
+# HomePage with NetBeans
 
 A simple Java Swing application created in NetBeans that connects to a MySQL database and displays a basic homepage with navigation buttons.
 
